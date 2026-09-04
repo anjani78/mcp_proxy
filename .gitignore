@@ -1,0 +1,25 @@
+# Virtual Environment folders
+venv/
+.venv/
+env/
+
+# Python execution caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local proxy configuration tracking file (contains your server URLs)
+proxy_servers.json
+
+# Local log files and daily logs folder
+logs/
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+# AnyOther 
+backup/
+mlflow.db
